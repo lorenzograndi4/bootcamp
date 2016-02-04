@@ -3,6 +3,8 @@ drinks = [
   {name: "rum"}
 ]
 
+# comment example 
+
 drinks.each do |drink|
   puts "#{drink[:name]} costs EUR #{drink[:price]}"
 end
