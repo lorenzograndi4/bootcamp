@@ -9,7 +9,7 @@ class Store
 		"Nicely done!", 
 		"Great choice!", 
 		"Awesome!", 
-		"Wonderfull!", 
+		"Wonderful!", 
 		"Very very nice!", 
 		"I would have done the same!", 
 		"Wowowow!", 
